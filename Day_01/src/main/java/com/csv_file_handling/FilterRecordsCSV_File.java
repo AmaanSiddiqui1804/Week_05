@@ -13,7 +13,6 @@ public class FilterRecordsCSV_File {
         String filePath = "D:\\Week_05\\Day_01\\src\\main\\java\\com\\csv_files\\Problem1_CSV_File.csv" ;
         try(BufferedReader reader = new BufferedReader(new FileReader(filePath))){
             String line ;
-            String splitBy = ",";
             reader.readLine();
 
             while ((line = reader.readLine()) != null) {
