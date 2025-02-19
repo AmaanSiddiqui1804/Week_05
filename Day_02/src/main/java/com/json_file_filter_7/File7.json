@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Amaan",
+    "email": "amaan@example.com",
+    "age": 26,
+    "city": "Bhopal"
+  },
+  {
+    "name": "Nishank",
+    "email": "nishank@example.com",
+    "age": 29,
+    "city": "Betul"
+  },
+  {
+    "name": "Tikesh",
+    "email": "tikesh@example.com",
+    "age": 24,
+    "city": "Bhopal"
+  },
+  {
+    "name": "Abhay",
+    "email": "tikesh@example.com",
+    "age": 25,
+    "city": "Bhopal"
+  },
+  {
+    "name": "Sonu",
+    "email": "sonu@example.com",
+    "age": 22,
+    "city": "Bhopal"
+  },
+  {
+  "name": "Kanchan",
+  "email": "kanchan@example.com",
+  "age": 26,
+  "city": "Bhopal"
+  }
+]

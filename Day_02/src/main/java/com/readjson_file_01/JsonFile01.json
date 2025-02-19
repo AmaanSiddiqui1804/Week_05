@@ -1,0 +1,54 @@
+{
+  "cars": [
+    {
+      "brand": "Ford",
+      "model": "Mustang",
+      "type": "Muscle"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "type": "Muscle"
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "type": "Off-road"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "type": "Off-road"
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "type": "SUV"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "G-Class",
+      "type": "SUV"
+    },
+    {
+      "brand": "Nissan",
+      "model": "370Z",
+      "type": "Street race"
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic Type R",
+      "type": "Street race"
+    },
+    {
+      "brand": "Ferrari",
+      "model": "488 GTB",
+      "type": "Sports"
+    },
+    {
+      "brand": "Porsche",
+      "model": "911 Carrera",
+      "type": "Sports"
+    }
+  ]
+}
