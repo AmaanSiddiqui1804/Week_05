@@ -26,7 +26,7 @@ public class SortCSV_File {
                 records.add(columns);
             }
 
-            List<String[]> sortedRecords = new ArrayList<>();
+
             // Sorting the records by salary in descending order
             for (int i = 1; i < records.size(); i++) {  // Start from 1 to skip header
                 for (int j = i + 1; j < records.size(); j++) {
